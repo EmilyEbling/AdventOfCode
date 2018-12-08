@@ -31,6 +31,8 @@ public class PartTwo {
 
 		System.out.println(sum);
 		
+		in.close();
+		
 	}
 		
 }
