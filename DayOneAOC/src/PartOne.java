@@ -13,6 +13,8 @@ public class PartOne {
 			sum += in.nextInt();
 
 		System.out.println(sum);
+		
+		in.close();
 
 	}
 
